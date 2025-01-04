@@ -26,6 +26,7 @@ The original software publication (version 2):
 
 https://www.sciencedirect.com/science/article/pii/S2352711020300170
 
+test
 """
 # module level dunders
 __version__ = "5.1.1"
